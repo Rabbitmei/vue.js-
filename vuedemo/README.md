@@ -1,4 +1,4 @@
-# vuedemo1
+# vuedemo
 
 > A Vue.js project
 
@@ -28,3 +28,5 @@ npm test
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+这是之搭建的脚手架。代码有改动，具体可以看 http://blog.csdn.net/ycm_920414/article/details/61913385
